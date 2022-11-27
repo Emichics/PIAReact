@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KlEDfBvzEGiqiIIGdZBqtW1aG1/TcLfR8ZX3zGwnqgxfopcADRkJoYaB08UbC/v93bMdnAqjiSaFvmTNHc9lew==",
+  "dgSpecHash": "9pU2bnXTgzZig1XGJqAPLZYyfMz/7M/jIomJKrV2YLBsIg328BXi2la2+YvKwqTMt/N40dhKmG4hS3zN9GNnaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\PIAReact\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\emili\\.nuget\\packages\\node.js\\5.3.0\\node.js.5.3.0.nupkg.sha512"
+    "C:\\Users\\hugo_\\.nuget\\packages\\node.js\\5.3.0\\node.js.5.3.0.nupkg.sha512"
   ],
   "logs": []
 }
