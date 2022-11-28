@@ -562,19 +562,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hugo_\\.nuget\\packages\\": {}
+    "C:\\Users\\emili\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAReact-main\\PIAReact\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAReact-main\\PIAReact\\BL\\BL.csproj",
-      "packagesPath": "C:\\Users\\hugo_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAReact-main\\PIAReact\\BL\\obj\\",
+      "projectPath": "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\BL\\BL.csproj",
+      "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hugo_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -588,11 +588,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAReact-main\\PIAReact\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAReact-main\\PIAReact\\DAL\\DAL.csproj"
+            "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAReact-main\\PIAReact\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAReact-main\\PIAReact\\DTO\\DTO.csproj"
+            "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\emili\\source\\repos\\ReactPIA\\PIAPROGRA\\DTO\\DTO.csproj"
             }
           }
         }
@@ -628,7 +628,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
