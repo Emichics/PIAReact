@@ -10,3 +10,15 @@ C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DAL\obj\Debug\net6.0\DAL.dll
 C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DAL\obj\Debug\net6.0\refint\DAL.dll
 C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DAL\obj\Debug\net6.0\ref\DAL.dll

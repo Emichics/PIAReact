@@ -10,3 +10,15 @@ C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DTO\obj\Debug\net6.0\DTO.dll
 C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DTO\obj\Debug\net6.0\refint\DTO.dll
 C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DTO\obj\Debug\net6.0\DTO.pdb
 C:\Users\emili\source\repos\ReactPIA\PIAPROGRA\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\hugo_\OneDrive - Universidad Autonoma de Nuevo León\Desktop\PIAReact-main\PIAReact\DTO\obj\Debug\net6.0\ref\DTO.dll
